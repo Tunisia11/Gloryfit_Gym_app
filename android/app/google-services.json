@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "792638518865",
+    "project_id": "gloryfit3",
+    "storage_bucket": "gloryfit3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792638518865:android:64140ce8191e5db43d2a70",
+        "android_client_info": {
+          "package_name": "com.example.gloryfit_version_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792638518865-q57qic13uhuqdif6hhrl5k7tu1817c99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gloryfit_version_3",
+            "certificate_hash": "87924c02c588403eafa3620ebf88d00f2ac75b90"
+          }
+        },
+        {
+          "client_id": "792638518865-bdmil0eucdmfqklq1fh87jbfi9dbcrlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7fBV11HMuz9waFssw2-gl6HagWYD9Tf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792638518865-bdmil0eucdmfqklq1fh87jbfi9dbcrlv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "792638518865-5n88r4mb1mhc7grnl0e43277njnb4944.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gloryfitVersion3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

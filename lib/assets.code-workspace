@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../../gloryfit/assets"
+		},
+		{
+			"name": "gloryfit_version_3",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
